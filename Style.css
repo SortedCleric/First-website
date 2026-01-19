@@ -1,15 +1,15 @@
 body {
-  font-family: tahoma, sans-serif;
-  background-color: #a6aaad;
+   font-family: Verdana, sans-serif;
+  background-color: #1074c0;
   padding: 30px;
 }
 
 h1 {
-  color: #222;
+  color: #000000;
 }
 
 h2 {
-  color: #444;
+  color: #131111;
   margin-top: 30px;
 }
 
@@ -28,7 +28,7 @@ li {
 .container {
   max-width: 800px;
   margin: 0 auto;
-  background-color: #dbdbdb;
+  background-color: #b4b4b4;
   padding: 30px;
   border-radius: 8px;
 }
@@ -47,7 +47,7 @@ nav {
 }
 
 .nav-list a {
-  color: white;
+  color: rgb(2, 2, 2);
   text-decoration: none;
   font-weight: bold;
 }
@@ -65,7 +65,7 @@ nav {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 20px;
-  background-color: #2e0101;
+  background-color: #350303;
   color: #ec0000;
   text-decoration: none;
   border-radius: 5px;
